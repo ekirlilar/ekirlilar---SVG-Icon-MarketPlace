@@ -1,3 +1,5 @@
+
+
 (() => {
 
   console.log("Some Message popped up here");
@@ -8,12 +10,13 @@
 
   let theButton = document.querySelector("#myButton"),
       theHeading = document.querySelector('h1'),
-      svgImage = document.querySelector('#svgGraphic');
+      // svgImage = document.querySelector('#svgGraphic'),
+      allSVGs = document.querySelectorAll(".svg");
 
 //this function changing the heading text
-function changeText() {
-  theHeading.textcontent = "Hello there from the console";
-}
+  function changeText() {
+    theHeading.textContent = "Hello there from the console";
+  }
 
 
   function logSVG() {
@@ -21,7 +24,10 @@ function changeText() {
   }
 
   theButton.addEventListener("click", changeText);
-  svgImage.addEventListener("mouseover", logSVG);
+  // svgImage.addEventListener("click", logSVG);
+  // svgImage2.addEventListener("click", logSVG);
+
+  allSVGs.forEach(item => item.addEventListener('click', logSVG));
 
 
 
