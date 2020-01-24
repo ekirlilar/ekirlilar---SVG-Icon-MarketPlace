@@ -6,4 +6,167 @@
 
 .img-wrapper img {
   width: 100%;
- }
+
+}
+
+.cguitar1{
+	display: inline-block;
+	width: 500px;
+	height: 500px;
+	background: transparent url("../images/cguitar1.svg") no-repeat 0 0;
+	left:34px;
+	top:254px;
+}
+
+.cguitar1:hover {
+	display: inline-block;
+	width: 500px;
+	height: 500px;
+	background: transparent url("../images/cguitar2.svg") no-repeat 0 0;
+	left:34px;
+	top:254px;
+}
+
+.drums1{
+	display: inline-block;
+	width: 500px;
+	height: 500px;
+	background: transparent url("../images/drums1.svg") no-repeat 0 0;
+	left:293px;
+	top:254px;
+}
+
+.drums1:hover {
+	display: inline-block;
+	width: 500px;
+	height: 500px;
+	background: transparent url("../images/drums2.svg") no-repeat 0 0;
+	left:293px;
+	top:254px;
+}
+
+.flute1{
+	display: inline-block;
+	width: 500px;
+	height: 500px;
+	background: transparent url("../images/flute1.svg") no-repeat 0 0;
+	left:34px;
+	top:254px;
+}
+
+.flute1:hover {
+	display: inline-block;
+	width: 500px;
+	height: 500px;
+	background: transparent url("../images/flute2.svg") no-repeat 0 0;
+	left:34px;
+	top:254px;
+}
+
+.guitar1{
+	display: inline-block;
+	width: 500px;
+	height: 500px;
+	background: transparent url("../images/guitar1.svg") no-repeat 0 0;
+	left:293px;
+	top:254px;
+}
+
+.guitar1:hover {
+	display: inline-block;
+	width: 500px;
+	height: 500px;
+	background: transparent url("../images/guitar2.svg") no-repeat 0 0;
+	left:293px;
+	top:254px;
+}
+
+.harp1{
+	display: inline-block;
+	width: 500px;
+	height: 500px;
+	background: transparent url("../images/harp1.svg") no-repeat 0 0;
+	left:541px;
+	top:254px;
+}
+
+.harp1:hover {
+	display: inline-block;
+	width: 500px;
+	height: 500px;
+	background: transparent url("../images/harp2.svg") no-repeat 0 0;
+	left:541px;
+	top:254px;
+}
+
+.keyb1{
+	display: inline-block;
+	width: 500px;
+	height: 500px;
+	background: transparent url("../images/keyb1.svg") no-repeat 0 0;
+	left:34px;
+	top:429px;
+}
+
+.keyb1:hover {
+	display: inline-block;
+	width: 500px;
+	height: 500px;
+	background: transparent url("../images/keyb2.svg") no-repeat 0 0;
+	left:34px;
+	top:429px;
+}
+
+.keyp1{
+	display: inline-block;
+	width: 500px;
+	height: 500px;
+	background: transparent url("../images/keyp1.svg") no-repeat 0 0;
+	left:293px;
+	top:429px;
+}
+
+.keyp1:hover {
+	display: inline-block;
+	width: 500px;
+	height: 500px;
+	background: transparent url("../images/keyp2.svg") no-repeat 0 0;
+	left:293px;
+	top:429px;
+}
+
+.mic1{
+	display: inline-block;
+	width: 500px;
+	height: 500px;
+	background: transparent url("../images/mic1.svg") no-repeat 0 0;
+	left:541px;
+	top:429px;
+}
+
+.mic1:hover {
+	display: inline-block;
+	width: 500px;
+	height: 500px;
+	background: transparent url("../images/mic2.svg") no-repeat 0 0;
+	left:541px;
+	top:429px;
+}
+
+.musicbox1{
+	display: inline-block;
+	width: 500px;
+	height: 500px;
+	background: transparent url("../images/musicbox1.svg") no-repeat 0 0;
+	left:32px;
+	top:608px;
+}
+
+.musicbox1:hover {
+	display: inline-block;
+	width: 500px;
+	height: 500px;
+	background: transparent url("../images/musicbox2.svg") no-repeat 0 0;
+	left:32px;
+	top:608px;
+}
