@@ -1,31 +1,32 @@
-// this is a self-invoking anonymous function
-// also called an IIFE
-// also called a module
-
 (() => {
-  // print("some message");
-  console.log("some message - from JavaScript");
+console.log("some message - from JavaScript");
+  let
 
-  // find the button element on the page by its ID with JavaScript
-  let theHeading = document.querySelector('h1'),
-      //svgImage = document.querySelector("#svgGraphic"),
-      allSVGs = document.querySelectorAll(".svg");
+svg = document.querySelector("#cguita"),
+svg1 = document.querySelector("#drums"),
+svg2 = document.querySelector("#flute"),
+svg3 = document.querySelector("#guitar"),
+svg4 = document.querySelector("#harp"),
+svg5 = document.querySelector("#keyb"),
+svg6 = document.querySelector("#keyp"),
+svg7 = document.querySelector("#mic"),
+svg8 = document.querySelector("#musicbox");
 
-  // this function changes the heading text
-  function changeText() {
-    theHeading.textContent = "Hello there from the console";
-  }
-
-  // log the id of the svg to the console when a user hovers on it
-  function logSVG() {
+  function logSVG()
+  {
     console.log(this.id);
   }
 
-  //theButton.addEventListener("click", changeText);
-  //svgImage.addEventListener("click", logSVG);
-  //svgImage2.addEventListener("click", logSVG);
 
-  // loop through the collection and apply our event handling to each element
-  allSVGs.forEach(item => item.addEventListener('click', logSVG));
-  //document.querySelector('h1').textContent = "Hello there from the console";
+
+svg.addEventListener("mouseover", logSVG);
+svg1.addEventListener("mouseover", logSVG);
+svg2.addEventListener("mouseover", logSVG);
+svg3.addEventListener("mouseover", logSVG);
+svg4.addEventListener("mouseover", logSVG);
+svg5.addEventListener("mouseover", logSVG);
+svg6.addEventListener("mouseover", logSVG);
+svg7.addEventListener("mouseover", logSVG);
+svg8.addEventListener("mouseover", logSVG);
+
 })();

@@ -3,6 +3,10 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 703 682" enable-background="new 0 0 703 682" xml:space="preserve">
+	<style> #Layer_1:hover {
+		
+		fill:red;
+		} </style>
 <g>
 	<path fill="#FDFDFD" d="M351.5,0.1c116,0,232,0,348-0.1c2.8,0,3.4,0.6,3.4,3.4c-0.1,225-0.1,450.1,0,675.1c0,2.8-0.6,3.4-3.4,3.4
 		c-232-0.1-464.1-0.1-696.1,0c-2.8,0-3.4-0.6-3.4-3.4c0.1-225,0.1-450.1,0-675.1C0,0.6,0.6,0,3.4,0C119.5,0.1,235.5,0.1,351.5,0.1z"
