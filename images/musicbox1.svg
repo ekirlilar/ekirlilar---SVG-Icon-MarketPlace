@@ -3,6 +3,12 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1033.8 650.5" enable-background="new 0 0 1033.8 650.5" xml:space="preserve">
+	 	 <style>
+	#Layer_1:hover {
+	fill:yellow;
+	}
+
+</style>
 <g>
 	<path fill="#FEFEFE" d="M516.8,0.1c171.1,0,342.3,0,513.4-0.1c3.1,0,3.6,0.7,3.6,3.7c-0.1,214.4-0.1,428.8,0,643.1
 		c0,2.9-0.5,3.7-3.6,3.7c-342.1-0.1-684.3-0.1-1026.4,0c-3.2,0-3.8-0.8-3.8-3.9C0.1,432.3,0.1,217.9,0,3.5C0,0.8,0.5,0,3.4,0

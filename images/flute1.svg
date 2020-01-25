@@ -3,6 +3,14 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="flute1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 751 621.8" enable-background="new 0 0 751 621.8" xml:space="preserve">
+
+<style>
+	#flute1:hover {
+	fill:red;
+	}
+
+</style>
+
 <path fill="#FDFDFD" d="M0.5,0.5c250.4,0,500.8,0,751.2,0c0,207.4,0,414.7,0,622.1c-250.4,0-500.8,0-751.2,0
 	C0.5,415.2,0.5,207.8,0.5,0.5z"/>
 <path fill="#020100" d="M624.9,95.1c0.7,1.1,1.5,0.9,2.4,0.4c2.9-1.6,5.8-3.2,8.7-4.7c6-3.2,12.4-3.9,19-3.2c2,0.2,4.1,0.6,6.1,1
